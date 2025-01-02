@@ -3,7 +3,10 @@
 Welcome to **WanderWise**, the ultimate AI-powered travel assistant that simplifies planning your next adventure. Whether you're preparing for a quick weekend getaway or a grand month-long journey, WanderWise creates the perfect itinerary tailored to your needs.
 
 ## Overview  
-**WanderWise** is a Software as a Service (SaaS) platform that leverages advanced AI technologies to transform the way you plan your trips. Enter a simple prompt like "2-day trip to London with a $1000 budget," and watch the AI generate a detailed, personalized travel plan just for you.
+**WanderWise** is a Software as a Service (SaaS) platform that leverages advanced AI technologies to transform the way you plan your trips. Enter a simple prompt like "2-day trip to varanasi with a INR 5000 budget," and watch the AI generate a detailed, personalized travel plan just for you.
+
+![OpenGraph Preview](app/opengraph-image.png)
+
 
 # Key Features
 
